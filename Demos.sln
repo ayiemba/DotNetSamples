@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30223.230
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncDemo", "AsyncDemo\AsyncDemo.csproj", "{9952EFDD-5C8A-4E31-8369-8B1E30BBDA03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RichConsoleApp", "RichConsoleApp\RichConsoleApp.csproj", "{BFA35A31-8985-4199-9F67-80B34A11BCBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9952EFDD-5C8A-4E31-8369-8B1E30BBDA03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9952EFDD-5C8A-4E31-8369-8B1E30BBDA03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9952EFDD-5C8A-4E31-8369-8B1E30BBDA03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9952EFDD-5C8A-4E31-8369-8B1E30BBDA03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFA35A31-8985-4199-9F67-80B34A11BCBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA35A31-8985-4199-9F67-80B34A11BCBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA35A31-8985-4199-9F67-80B34A11BCBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA35A31-8985-4199-9F67-80B34A11BCBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C80C980-CD93-4A31-AA01-E76098424329}
+	EndGlobalSection
+EndGlobal
